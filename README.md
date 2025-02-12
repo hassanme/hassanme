@@ -38,36 +38,42 @@ Let's collaborate, innovate, and make the impossible happen!
 <img src="https://analyticsdrift.com/wp-content/uploads/2024/10/Navigating-Artificial-Intelligence-Advantages-and-Disadvantages-A-Guide-to-Responsible-AI.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 149px margin: 0px; width: 140p;" alt="Artificial Intelligence Advantages and Disadvantages" jsname="kn3ccd" aria-hidden="false">   
 
 
-## 🛠️ **Tech Stack:**
-### Languages
-![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue)
+## 💻 Tech Stack:
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-green) ![FastAPI](https://img.shields.io/badge/-FastAPI-brightgreen) ![Django REST](https://img.shields.io/badge/-Django%20REST-green)
+### Frameworks:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-### Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-purple) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange) ![Numpy](https://img.shields.io/badge/-Numpy-yellow) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-brightorange)
+### Libraries:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-%23F7931E.svg?style=flat&logo=nltk&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-%23F7931E.svg?style=flat&logo=Gensim&logoColor=white)   
 
-### LLM Tools
-![LangChain](https://img.shields.io/badge/-LangChain-green) ![OpenAI](https://img.shields.io/badge/-OpenAI-blue) ![Anthropic](https://img.shields.io/badge/-Anthropic-yellow) ![Huggingface](https://img.shields.io/badge/-Huggingface-red)
+### LLM: 
 
-### Vector Databases
-![Faiss](https://img.shields.io/badge/-Faiss-blue) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-brightgreen) ![Pinecone](https://img.shields.io/badge/-Pinecone-green)
+![langchain](https://img.shields.io/badge/langchain-%23F7931E.svg?style=flat&logo=langchain&logoColor=white)
+![LLama-index](https://img.shields.io/badge/llama-index-%23F7931E.svg?style=flat&logo=llama-index&logoColor=white)
+![openai](https://img.shields.io/badge/openai-%23F7931E.svg?style=flat&logo=openai&logoColor=white) ![huggingface](https://img.shields.io/badge/huggingface-%23026AA7.svg?style=flat&logo=huggingface&logoColor=white) ![cohere](https://img.shields.io/badge/cohere-%23F7931E.svg?style=flat&logo=cohere&logoColor=white) ![anthropic](https://img.shields.io/badge/anthropic-%23026AA7.svg?style=flat&logo=anthropic&logoColor=white) ![eleutherai](https://img.shields.io/badge/eleutherai-%23F7931E.svg?style=flat&logo=eleutherai&logoColor=white) ![google](https://img.shields.io/badge/google-%23026AA7.svg?style=flat&logo=google&logoColor=white) ![facebook](https://img.shields.io/badge/facebook-%23F7931E.svg?style=flat&logo=facebook&logoColor=white) 
 
-### Databases
-![AmazonDynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-orange) ![Postgres](https://img.shields.io/badge/-Postgres-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MySQL](https://img.shields.io/badge/-MySQL-brightblue)
+### Vector Databases:
+![faiss](https://img.shields.io/badge/Faiss-%23026AA7.svg?style=flat&logo=Faiss&logoColor=white) ![chromadb](https://img.shields.io/badge/Chromadb-%23F7931E.svg?style=flat&logo=chromadb&logoColor=white) ![pinecone](https://img.shields.io/badge/Pinecone-%23026AA7.svg?style=flat&logo=pinecone&logoColor=white) 
 
-### Hosting
-![AWS](https://img.shields.io/badge/-AWS-orange) ![GitHubPages](https://img.shields.io/badge/-GitHubPages-blue)
+### Databases:
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-### Tools
-![Canva](https://img.shields.io/badge/-Canva-blue) ![GitHub](https://img.shields.io/badge/-GitHub-black) ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) ![VSCode](https://img.shields.io/badge/-VSCode-blue) ![GoogleColab](https://img.shields.io/badge/-Google%20Colab-lightgrey) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Git](https://img.shields.io/badge/-Git-black) ![Slack](https://img.shields.io/badge/-Slack-purple) ![Postman](https://img.shields.io/badge/-Postman-orange) ![Notion](https://img.shields.io/badge/-Notion-black) ![Anaconda](https://img.shields.io/badge/-Anaconda-green)
+### Hosting:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
+
+### Tools:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23026AA7.svg?style=flat&logo=Jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23026AA7.svg?style=flat&logo=VSCode&logoColor=white) ![google colab](https://img.shields.io/badge/google%20colab-%23026AA7.svg?style=flat&logo=google%20colab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23026AA7.svg?style=flat&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23026AA7.svg?style=flat&logo=Git&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%23026AA7.svg?style=flat&logo=Slack&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23026AA7.svg?style=flat&logo=Postman&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23026AA7.svg?style=flat&logo=Notion&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 
 ---
 
-## 😂 Random Dev Meme
-![Jokes Card](https://img.shields.io/badge/-Jokes%20Card-yellow)
+### 😂 Random Dev Meme
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+---
 ## 💰 GitHub Trophy
 ![GitHub Trophy](https://img.shields.io/badge/-GitHub%20Trophy-lightblue)
 
